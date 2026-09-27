@@ -8,3 +8,5 @@ npm-debug.log*
 certificates
 *.sqlite
 *.vsidx
+/.vs/Supperapp/v18
+/.vs
