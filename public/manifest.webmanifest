@@ -1,0 +1,14 @@
+{
+  "name": "Hummers app",
+  "short_name": "Hummers",
+  "description": "مدیریت دارایی، اعتبار و خرید اعتباری هامرز",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f7fb",
+  "theme_color": "#0050a7",
+  "lang": "fa",
+  "dir": "rtl",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
